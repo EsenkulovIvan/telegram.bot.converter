@@ -6,3 +6,5 @@
 |/start|начало работы бота|
 |/help|список команд|
 |/info|формат ввода данных для конвертации|
+## Username бота
+@Ivanko24_bot (https://t.me/Ivanko24_bot)
